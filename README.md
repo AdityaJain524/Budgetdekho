@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-=======
-#### AI-Based Personal Expense Manager with Predictive Analytics and Smart Budgeting
+AI-Based Personal Expense Manager with Predictive Analytics and Smart Budgeting
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
->>>>>>> 93ffd511f55834f8dff87fd11d16fe47bb5ebf1e
+
 
 ## Getting Started
 
